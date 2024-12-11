@@ -4,3 +4,8 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+
+openim/openim-web-front:release-v3.8.1
+openim/openim-admin-front:release-v1.8.3
+openim/openim-server:release-v3.8.2
+openim/openim-chat:v1.8.2
