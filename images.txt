@@ -9,3 +9,6 @@ openim/openim-web-front:release-v3.8.1
 openim/openim-admin-front:release-v1.8.3
 openim/openim-server:release-v3.8.2
 openim/openim-chat:v1.8.2
+
+wurstmeister/kafka:2.13-2.8.1
+wurstmeister/zookeeper:3.4.13
